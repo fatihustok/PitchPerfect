@@ -1,5 +1,5 @@
 # PitchPerfect
-This is an example IOS app to use AVFoundation using Swift 2.2. The app records the user's audio and play with its rate and pitch to sound like Darth Vader and ChipMunk
+This is an example IOS app to use AVFoundation using Swift 2.2. The app records the user's audio and play with its rate (slower or faster speech) and pitch to sound like Darth Vader and ChipMunk.
 
 ###Record Audio View Controller
 
